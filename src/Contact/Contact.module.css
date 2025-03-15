@@ -1,0 +1,19 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 4px;
+}
+
+.infoWrp {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.delete {
+  height: 30px;
+  font-size: 16px;
+  padding: 4px;
+  cursor: pointer;
+}
